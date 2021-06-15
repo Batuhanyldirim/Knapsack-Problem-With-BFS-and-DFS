@@ -10,7 +10,7 @@ n this assignment we are trying to solve the Knapsack Problem. According to defi
 
 In this problem we want to maximize total benefit of the items in the knapsack. If Xbnis equal to benefit of Xnthen we have following function. 
 
-![image](https://user-images.githubusercontent.com/41572446/122053237-dc78ab80-cde6-11eb-8c77-36459a9e919d.png)
+![image](https://user-images.githubusercontent.com/41572446/122054087-a687f700-cde7-11eb-83b2-8b809a994c74.png)
 
 
 ### Restrictions
@@ -19,11 +19,11 @@ Given problem has the restrictions for range of Xn and total weight of products 
 
 Restriction for weight:
 
-![image](https://user-images.githubusercontent.com/41572446/122053581-29f51880-cde7-11eb-988e-7ba596a516f3.png)
+![image](https://user-images.githubusercontent.com/41572446/122054327-dc2ce000-cde7-11eb-992a-d680c4c85dc2.png)
 
 Restriction for Xn:
 
-![image](https://user-images.githubusercontent.com/41572446/122053678-3ed1ac00-cde7-11eb-92ca-c39f07950ce6.png)
+![image](https://user-images.githubusercontent.com/41572446/122054461-fcf53580-cde7-11eb-9f29-78e56f424bb5.png)
 
 ### Time complexity:
 
